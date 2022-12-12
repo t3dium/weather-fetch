@@ -6,6 +6,8 @@ A neofetch for your weather info
 
 ## How to install
 
+install [gum](https://github.com/charmbracelet/gum#installation)
+
 ``cd ~/Downloads && git clone https://github.com/t3dium/weather-fetch && echo "bash ~/Downloads/weather-fetch/weather-fetch.sh" >> ~/.zshrc && echo "installed and added weather fetch to your terminal startup"``
 
 If you dont use zsh, the 2nd to last command will fail, so change it to ~/.bashrc or whatever shell is used, and re-run the command.
